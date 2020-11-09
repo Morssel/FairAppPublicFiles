@@ -1,0 +1,1083 @@
+[
+    {
+        "EventNumber":1,
+        "EventName": "Opening Swine Weigh-in",
+        "EventDescription": "",
+        "EventLocationName": "",
+        "EventDay": "Sunday",
+        "EventTime": "6:30-9AM",
+        "Latitude": 0.0,
+        "Longitude": 0.0
+     },
+     {
+        "EventNumber":2,
+        "EventName": "Open Boer Goat Weigh-in",
+        "EventDescription": "",
+        "EventLocationName": "",
+        "EventDay": "Sunday",
+        "EventTime": "9AM-12PM",
+        "Latitude": 0.0,
+        "Longitude": 0.0
+     },
+    {
+       "EventNumber":3,
+       "EventName": "Open Swine Show",
+       "EventDescription": "",
+       "EventLocationName": "Livestock Show Barn",
+       "EventDay": "Sunday",
+       "EventTime": "1PM",
+       "Latitude": 38.09043,
+       "Longitude": -87.559147
+     },
+    {
+        "EventNumber":4,
+        "EventName": "Open Boer Goat Show",
+        "EventDescription": "",
+        "EventLocationName": "Livestock Show Barn",
+        "EventDay": "Sunday",
+        "EventTime": "1PM",
+        "Latitude": 38.09043,
+        "Longitude": -87.559147
+     },
+     {
+         "EventNumber":5,
+         "EventName": "Livestock Barn Olympics",
+         "EventDescription": "",
+         "EventLocationName": "Livestock Show Barn",
+         "EventDay": "Monday",
+         "EventTime": "12-2PM",
+         "Latitude": 38.09043,
+         "Longitude": -87.559147
+      },
+      {
+          "EventNumber":6,
+          "EventName": "All Exhibit Buildings Open",
+          "EventDescription": "",
+          "EventLocationName": "",
+          "EventDay": "Monday",
+          "EventTime": "3-10PM",
+          "Latitude": 0.0,
+          "Longitude": 0.0
+       },
+       {
+           "EventNumber":7,
+           "EventName": "Barbeque Contest",
+           "EventDescription": "",
+           "EventLocationName": "S.I.A.M.",
+           "EventDay": "Monday",
+           "EventTime": "4PM",
+           "Latitude": 38.0916,
+           "Longitude": -87.55959
+        },
+        {
+            "EventNumber":8,
+            "EventName": "4-H & Open Pygmy Goat Show",
+            "EventDescription": "",
+            "EventLocationName": "Livestock Show Barn",
+            "EventDay": "Monday",
+            "EventTime": "4PM",
+            "Latitude": 38.09043,
+            "Longitude": -87.559147
+         },
+         {
+             "EventNumber":9,
+             "EventName": "Cupcake Battle Regsitration",
+             "EventDescription": "",
+             "EventLocationName": "Auditorium",
+             "EventDay": "Monday",
+             "EventTime": "4-4:30PM",
+             "Latitude": 38.092095,
+             "Longitude": -87.561649
+          },
+          {
+              "EventNumber":10,
+              "EventName": "Dog Show",
+              "EventDescription": "",
+              "EventLocationName": "Commercial Building",
+              "EventDay": "Monday",
+              "EventTime": "4:30PM",
+              "Latitude": 38.08967,
+              "Longitude": -87.56065
+           },
+           {
+               "EventNumber":11,
+               "EventName": "Cupcake Battle Decorating",
+               "EventDescription": "",
+               "EventLocationName": "Auditorium",
+               "EventDay": "Monday",
+               "EventTime": "4:30-5:30PM",
+               "Latitude": 38.092095,
+               "Longitude": -87.561649
+            },
+            {
+                "EventNumber":12,
+                "EventName": "All Rides Open",
+                "EventDescription": "",
+                "EventLocationName": "",
+                "EventDay": "Monday",
+                "EventTime": "5-11PM",
+                "Latitude": 0.0,
+                "Longitude": 0.0
+             },
+             {
+                "EventNumber":13,
+                "EventName": "Cupcake Battle Awards",
+                "EventDescription": "",
+                "EventLocationName": "Auditorium",
+                "EventDay": "Monday",
+                "EventTime": "5:45PM",
+                "Latitude": 38.092095,
+                "Longitude": -87.561649
+             },
+         {
+            "EventNumber":14,
+            "EventName": "Comedy Illusionist",
+            "EventDescription": "",
+            "EventLocationName": "Kids Corner",
+            "EventDay": "Monday",
+            "EventTime": "6PM & 8PM",
+            "Latitude": 38.090766,
+            "Longitude": -87.561264
+         },
+         {
+            "EventNumber":15,
+            "EventName": "BKA Go-Kart Races",
+            "EventDescription": "",
+            "EventLocationName": "Grandstand",
+            "EventDay": "Monday",
+            "EventTime": "6:30PM",
+            "Latitude": 38.089623,
+            "Longitude": -87.55941
+         },
+         {
+            "EventNumber":16,
+            "EventName": "Official Fair Opening",
+            "EventDescription": "",
+            "EventLocationName": "Auditorium",
+            "EventDay": "Monday",
+            "EventTime": "7PM",
+            "Latitude": 38.092095,
+            "Longitude": -87.561649
+         },
+         {
+            "EventNumber":17,
+            "EventName": "Fair Queen Pageant",
+            "EventDescription": "",
+            "EventLocationName": "Auditorium",
+            "EventDay": "Monday",
+            "EventTime": "7PM",
+            "Latitude": 38.092095,
+            "Longitude": -87.561649
+         },
+         {
+            "EventNumber":18,
+            "EventName": "Rabbit Show",
+            "EventDescription": "",
+            "EventLocationName": "Small Animal Barn",
+            "EventDay": "Tuesday",
+            "EventTime": "8AM",
+            "Latitude": 38.091016,
+            "Longitude": -87.55958
+         },
+         {
+            "EventNumber":19,
+            "EventName": "Boer Goat Show",
+            "EventDescription": "",
+            "EventLocationName": "Livestock Show Barn",
+            "EventDay": "Tuesday",
+            "EventTime": "9AM",
+            "Latitude": 38.09043,
+            "Longitude": -87.559147
+         },
+         {
+            "EventNumber":20,
+            "EventName": "Horse and Pony Contest",
+            "EventDescription": "",
+            "EventLocationName": "Lower Horse Arena",
+            "EventDay": "Tuesday",
+            "EventTime": "9AM",
+            "Latitude": 38.088091,
+            "Longitude": -87.562426
+         },
+         {
+            "EventNumber":21,
+            "EventName": "Senior Citizens Activities",
+            "EventDescription": "",
+            "EventLocationName": "Auditorium",
+            "EventDay": "Tuesday",
+            "EventTime": "9AM-3PM",
+            "Latitude": 38.092095,
+            "Longitude": -87.561649
+         },
+         {
+            "EventNumber":22,
+            "EventName": "All Exhibit Buildings Open",
+            "EventDescription": "",
+            "EventLocationName": "",
+            "EventDay": "Tuesday",
+            "EventTime": "9AM-10PM",
+            "Latitude": 0.0,
+            "Longitude": 0.0
+         },
+         {
+            "EventNumber":23,
+            "EventName": "Kids Corner Open",
+            "EventDescription": "",
+            "EventLocationName": "",
+            "EventDay": "Tuesday",
+            "EventTime": "10AM-9PM",
+            "Latitude": 38.090766,
+            "Longitude": -87.561264
+         },
+         {
+            "EventNumber":24,
+            "EventName": "Open Rabbit Show",
+            "EventDescription": "",
+            "EventLocationName": "Small Animal Barn",
+            "EventDay": "Tuesday",
+            "EventTime": "11:30AM",
+            "Latitude": 38.091016,
+            "Longitude": -87.55958
+         },
+         {
+            "EventNumber":25,
+            "EventName": "Dairy Goat Show",
+            "EventDescription": "",
+            "EventLocationName": "Livestock Show Barn",
+            "EventDay": "Tuesday",
+            "EventTime": "12PM",
+            "Latitude": 38.09043,
+            "Longitude": -87.559147
+         },
+         {
+            "EventNumber":26,
+            "EventName": "Watermelon Relay",
+            "EventDescription": "",
+            "EventLocationName": "Area West",
+            "EventDay": "Tuesday",
+            "EventTime": "1PM",
+            "Latitude": 38.090102,
+            "Longitude": -87.561557
+         },
+         {
+            "EventNumber":27,
+            "EventName": "Quilt Hand Tying Demo",
+            "EventDescription": "",
+            "EventLocationName": "Auditorium",
+            "EventDay": "Tuesday",
+            "EventTime": "2PM-6PM",
+            "Latitude": 38.092095,
+            "Longitude": -87.561649
+         },
+         {
+            "EventNumber":28,
+            "EventName": "All Rides Open",
+            "EventDescription": "",
+            "EventLocationName": "",
+            "EventDay": "Tuesday",
+            "EventTime": "4PM-11PM",
+            "Latitude": 0.0,
+            "Longitude": 0.0
+         },
+         {
+            "EventNumber":29,
+            "EventName": "Dog Agility",
+            "EventDescription": "",
+            "EventLocationName": "South of Outdoor Horse Arena",
+            "EventDay": "Tuesday",
+            "EventTime": "6PM",
+            "Latitude": 38.087247,
+            "Longitude": -87.561992
+         },
+         {
+            "EventNumber":30,
+            "EventName": "Comedy Illisionist",
+            "EventDescription": "",
+            "EventLocationName": "Kids Corner",
+            "EventDay": "Tuesday",
+            "EventTime": "6PM & 8PM",
+            "Latitude": 38.090766,
+            "Longitude": -87.561264
+         },
+         {
+            "EventNumber":31,
+            "EventName": "Young Miss Pageant",
+            "EventDescription": "",
+            "EventLocationName": "Auditorium",
+            "EventDay": "Tuesday",
+            "EventTime": "7PM",
+            "Latitude": 38.092095,
+            "Longitude": -87.561649
+         },
+         {
+             "EventNumber": 32,
+             "EventName": "Dairy Showmanship Contest",
+             "EventDescription": "",
+             "EventLocationName" : "Livestock Show Barn",
+             "EventDay": "Tuesday",
+             "EventTime": "7PM",
+             "Latitude": 38.09043,
+             "Longitude": -87.559147
+         },
+         {
+            "EventNumber": 33,
+            "EventName": "Three Bar J Rodeo",
+            "EventDescription": "",
+            "EventLocationName" : "Grandstand",
+            "EventDay": "Tuesday",
+            "EventTime": "7PM",
+            "Latitude": 38.089623,
+            "Longitude": -87.55941
+        },
+        {
+            "EventNumber": 34,
+            "EventName": "Open Poultry Show",
+            "EventDescription": "",
+            "EventLocationName" : "Small Animal Barn",
+            "EventDay": "Wednesday",
+            "EventTime": "8AM",
+            "Latitude": 38.091016,
+            "Longitude": -87.55958
+        },
+        {
+            "EventNumber": 35,
+            "EventName": "Horse and Pony Riding Classes",
+            "EventDescription": "",
+            "EventLocationName" : "Livestock Pavillion",
+            "EventDay": "Wednesday",
+            "EventTime": "9AM",
+            "Latitude": 0.0,
+            "Longitude": 0.0
+        },
+        {
+            "EventNumber": 36,
+            "EventName": "4-H Open & District Dairy Show",
+            "EventDescription": "",
+            "EventLocationName" : "Livestock Show Barn",
+            "EventDay": "Wednesday",
+            "EventTime": "9AM",
+            "Latitude": 38.09043,
+            "Longitude": -87.559147
+        },
+        {
+            "EventNumber": 37,
+            "EventName": "All Exhibit Buildings Open",
+            "EventDescription": "",
+            "EventLocationName" : "",
+            "EventDay": "Wednesday",
+            "EventTime": "9AM-10PM",
+            "Latitude": 0.0,
+            "Longitude": 0.0
+        },
+        {
+            "EventNumber": 38,
+            "EventName": "Mini 4-H Day Camp Green Group",
+            "EventDescription": "",
+            "EventLocationName" : "Auditorium",
+            "EventDay": "Wednesday",
+            "EventTime": "9-11AM",
+            "Latitude": 38.092095,
+            "Longitude": -87.561649
+        },
+        {
+            "EventNumber": 39,
+            "EventName": "Kids Corner Open",
+            "EventDescription": "",
+            "EventLocationName" : "",
+            "EventDay": "Wednesday",
+            "EventTime": "10AM-9PM",
+            "Latitude": 38.090766,
+            "Longitude": -87.561264
+        },
+        {
+            "EventNumber": 40,
+            "EventName": "Mini 4-H Camp Clover Group",
+            "EventDescription": "",
+            "EventLocationName" : "Auditorium",
+            "EventDay": "Wednesday",
+            "EventTime": "1-3PM",
+            "Latitude": 38.092095,
+            "Longitude": -87.561649
+        },
+        {
+            "EventNumber": 41,
+            "EventName": "Balloon Toss & Bubble Gum Bubble Contest",
+            "EventDescription": "",
+            "EventLocationName" : "Activities Center",
+            "EventDay": "Wednesday",
+            "EventTime": "1PM",
+            "Latitude": 38.089717,
+            "Longitude": -87.560318
+        },
+        {
+            "EventNumber": 42,
+            "EventName": "All Rides Open",
+            "EventDescription": "",
+            "EventLocationName" : "",
+            "EventDay": "Wednesday",
+            "EventTime": "4PM-11PM",
+            "Latitude": 0.0,
+            "Longitude": 0.0
+        },
+        {
+            "EventNumber": 43,
+            "EventName": "Llama & Alpaca Show",
+            "EventDescription": "",
+            "EventLocationName" : "Industrial Building",
+            "EventDay": "Wednesday",
+            "EventTime": "5PM",
+            "Latitude": 38.089713,
+            "Longitude": -87.561005
+        },
+        {
+            "EventNumber": 44,
+            "EventName": "Swine Show",
+            "EventDescription": "",
+            "EventLocationName" : "Livestock Show Barn",
+            "EventDay": "Wednesday",
+            "EventTime": "6PM",
+            "Latitude": 38.09043,
+            "Longitude": -87.559147
+        },
+        {
+            "EventNumber": 45,
+            "EventName": "Comedy Illusionist",
+            "EventDescription": "",
+            "EventLocationName" : "Kids Corner",
+            "EventDay": "Wednesday",
+            "EventTime": "6PM & 8PM",
+            "Latitude": 38.090766,
+            "Longitude": -87.561264
+        },
+        {
+            "EventNumber": 46,
+            "EventName": "4-H Parade",
+            "EventDescription": "",
+            "EventLocationName" : "Auditorium",
+            "EventDay": "Wednesday",
+            "EventTime": "6:30PM",
+            "Latitude": 38.092095,
+            "Longitude": -87.561649
+        },
+        {
+            "EventNumber": 47,
+            "EventName": "Little Miss & Mister Contest",
+            "EventDescription": "",
+            "EventLocationName" : "Auditorium",
+            "EventDay": "Wednesday",
+            "EventTime": "7PM",
+            "Latitude": 38.092095,
+            "Longitude": -87.561649
+        },
+        {
+            "EventNumber": 48,
+            "EventName": "Riley Green Concert",
+            "EventDescription": "",
+            "EventLocationName" : "Grandstand",
+            "EventDay": "Wednesday",
+            "EventTime": "7PM",
+            "Latitude": 38.089623,
+            "Longitude": -87.55941
+        },
+        {
+            "EventNumber": 49,
+            "EventName": "Morgan Wallen Conert",
+            "EventDescription": "",
+            "EventLocationName" : "Grandstand",
+            "EventDay": "Wednesday",
+            "EventTime": "8:30PM",
+            "Latitude": 38.089623,
+            "Longitude": -87.55941
+        },
+        {
+            "EventNumber": 50,
+            "EventName": "Horse and Pony English Halter Classes",
+            "EventDescription": "",
+            "EventLocationName" : "Lower Horse Arena",
+            "EventDay": "Thursday",
+            "EventTime": "9AM",
+            "Latitude": 38.088091,
+            "Longitude": -87.562426
+        },
+        {
+            "EventNumber": 51,
+            "EventName": "Beef Show",
+            "EventDescription": "",
+            "EventLocationName" : "Livestock Show Barn",
+            "EventDay": "Thursday",
+            "EventTime": "9AM",
+            "Latitude": 38.09043,
+            "Longitude": -87.559147
+        },
+        {
+            "EventNumber": 52,
+            "EventName": "All Exhibit Buildings Open",
+            "EventDescription": "",
+            "EventLocationName" : "",
+            "EventDay": "Thursday",
+            "EventTime": "9AM-10PM",
+            "Latitude": 0.0,
+            "Longitude": 0.0
+        },
+        {
+            "EventNumber": 53,
+            "EventName": "Mini 4-H Camp Green Group",
+            "EventDescription": "",
+            "EventLocationName" : "Auditorium",
+            "EventDay": "Thursday",
+            "EventTime": "9-11AM",
+            "Latitude": 38.092095,
+            "Longitude": -87.561649
+        },
+        {
+            "EventNumber": 54,
+            "EventName": "Kids Corner Open",
+            "EventDescription": "",
+            "EventLocationName" : "",
+            "EventDay": "Thursday",
+            "EventTime": "10AM-9PM",
+            "Latitude": 38.090766,
+            "Longitude": -87.561264
+        },
+        {
+            "EventNumber": 55,
+            "EventName": "Kids Pedal Tractor Pull Registration",
+            "EventDescription": "",
+            "EventLocationName" : "Industrial Building",
+            "EventDay": "Thursday",
+            "EventTime": "9AM",
+            "Latitude": 38.089713,
+            "Longitude": -87.561005
+        },
+        {
+            "EventNumber": 56,
+            "EventName": "Kids Pedal Tractor Pull",
+            "EventDescription": "",
+            "EventLocationName" : "Industrial Building",
+            "EventDay": "Thursday",
+            "EventTime": "10AM",
+            "Latitude": 38.089713,
+            "Longitude": -87.561005
+        },
+        {
+            "EventNumber": 57,
+            "EventName": "Bear Hollow Wood Carving Expo",
+            "EventDescription": "",
+            "EventLocationName" : "Grandstand South",
+            "EventDay": "Thursday",
+            "EventTime": "12-9PM",
+            "Latitude": 38.089186,
+            "Longitude": -87559954
+        },
+        {
+            "EventNumber": 58,
+            "EventName": "Pie & Watermelon Eating Contest",
+            "EventDescription": "",
+            "EventLocationName" : "Banquet Hall Pavillion",
+            "EventDay": "Thursday",
+            "EventTime": "1PM",
+            "Latitude": 38.0895,
+            "Longitude": -87.560308
+        },
+        {
+            "EventNumber": 59,
+            "EventName": "Mini 4-H Day Camp Clover Group",
+            "EventDescription": "",
+            "EventLocationName" : "Auditorium",
+            "EventDay": "Thursday",
+            "EventTime": "1-3PM",
+            "Latitude": 38.092095,
+            "Longitude": -87.561649
+        },
+        {
+            "EventNumber": 60,
+            "EventName": "Sheep Show",
+            "EventDescription": "",
+            "EventLocationName" : "Livestock Barn",
+            "EventDay": "Thursday",
+            "EventTime": "1PM",
+            "Latitude": 0.0,
+            "Longitude": 0.0
+        },
+        {
+            "EventNumber": 61,
+            "EventName": "Quilt Hand Tying Demo",
+            "EventDescription": "",
+            "EventLocationName" : "Auditorium",
+            "EventDay": "Thursday",
+            "EventTime": "2-6PM",
+            "Latitude": 38.092095,
+            "Longitude": -87.561649
+        },
+        {
+            "EventNumber": 62,
+            "EventName": "Ice Cream Crank-Off",
+            "EventDescription": "",
+            "EventLocationName" : "Banquet Hall Pavillion",
+            "EventDay": "Thursday",
+            "EventTime": "3PM",
+            "Latitude": 38.0895,
+            "Longitude": -87.560308
+        },
+        {
+            "EventNumber": 63,
+            "EventName": "Scavenger Hunt",
+            "EventDescription": "",
+            "EventLocationName" : "Activities Center",
+            "EventDay": "Thursday",
+            "EventTime": "3PM",
+            "Latitude": 38.089717,
+            "Longitude": -87.560318
+        },
+        {
+            "EventNumber": 64,
+            "EventName": "All Rides Open",
+            "EventDescription": "",
+            "EventLocationName" : "",
+            "EventDay": "Thursday",
+            "EventTime": "4-11PM",
+            "Latitude": 0.0,
+            "Longitude": 0.0
+        },
+        {
+            "EventNumber": 65,
+            "EventName": "Llama Costume Contest & Lead a Llama",
+            "EventDescription": "",
+            "EventLocationName" : "Industrial Building",
+            "EventDay": "Thursday",
+            "EventTime": "6PM",
+            "Latitude": 38.089713,
+            "Longitude": -87.561005
+        },
+        {
+            "EventNumber": 66,
+            "EventName": "Vanderburgh County Fair Farmers Pull",
+            "EventDescription": "",
+            "EventLocationName" : "Grandstand",
+            "EventDay": "Thursday",
+            "EventTime": "6PM",
+            "Latitude": 38.089623,
+            "Longitude": -87.55941
+        },
+        {
+            "EventNumber": 67,
+            "EventName": "Magic Show",
+            "EventDescription": "",
+            "EventLocationName" : "Kids Corner",
+            "EventDay": "Thursday",
+            "EventTime": "6PM & 8PM",
+            "Latitude": 38.090766,
+            "Longitude": -87.561264
+        },
+        {
+            "EventNumber": 68,
+            "EventName": "Tiny Tots Contest",
+            "EventDescription": "",
+            "EventLocationName" : "Auditorium",
+            "EventDay": "Thursday",
+            "EventTime": "6:30PM",
+            "Latitude": 38.092095,
+            "Longitude": -87.561649
+        },
+        {
+            "EventNumber": 69,
+            "EventName": "Supreme Showmanship",
+            "EventDescription": "",
+            "EventLocationName" : "Livestock Show Barn",
+            "EventDay": "Friday",
+            "EventTime": "8AM",
+            "Latitude": 38.09043,
+            "Longitude": -87.559147
+        },
+        {
+            "EventNumber": 70,
+            "EventName": "Versatility Class",
+            "EventDescription": "",
+            "EventLocationName" : "Lower Horse Arena",
+            "EventDay": "Friday",
+            "EventTime": "9AM",
+            "Latitude": 38.088091,
+            "Longitude": -87.562426
+        },
+        {
+            "EventNumber": 71,
+            "EventName": "Model Airplane and Rocket Show",
+            "EventDescription": "",
+            "EventLocationName" : "Livestock Pavillion Field",
+            "EventDay": "Friday",
+            "EventTime": "9AM",
+            "Latitude": 0.0,
+            "Longitude": 0.0
+        },
+        {
+            "EventNumber": 72,
+            "EventName": "Mini 4-H Day Camp Green Group",
+            "EventDescription": "",
+            "EventLocationName" : "Auditorium",
+            "EventDay": "Friday",
+            "EventTime": "9-11AM",
+            "Latitude": 38.092095,
+            "Longitude": -87.561649
+        },
+        {
+            "EventNumber": 73,
+            "EventName": "All Exhibit Buildings Open",
+            "EventDescription": "",
+            "EventLocationName" : "",
+            "EventDay": "Friday",
+            "EventTime": "9AM-10PM",
+            "Latitude": 0.0,
+            "Longitude": 0.0
+        },
+        {
+            "EventNumber": 73,
+            "EventName": "All Exhibit Buildings Open",
+            "EventDescription": "",
+            "EventLocationName" : "",
+            "EventDay": "Friday",
+            "EventTime": "9AM-10PM",
+            "Latitude": 0.0,
+            "Longitude": 0.0
+        },
+        {
+            "EventNumber": 74,
+            "EventName": "Kids Corner Open",
+            "EventDescription": "",
+            "EventLocationName" : "Kids Corner",
+            "EventDay": "Friday",
+            "EventTime": "10AM-9PM",
+            "Latitude": 38.090766,
+            "Longitude": -87.561264
+        },
+        {
+            "EventNumber": 75,
+            "EventName": "Livestock Auction Buyers Meal",
+            "EventDescription": "",
+            "EventLocationName" : "Banquet Hall Pavillion",
+            "EventDay": "Friday",
+            "EventTime": "11:30AM",
+            "Latitude": 38.0895,
+            "Longitude": -87.560308
+        },
+        {
+            "EventNumber": 76,
+            "EventName": "Wood Carving Expo",
+            "EventDescription": "",
+            "EventLocationName" : "Grandstand South",
+            "EventDay": "Friday",
+            "EventTime": "12-9PM",
+            "Latitude": 38.089186,
+            "Longitude": -87.559954
+        },
+        {
+            "EventNumber": 77,
+            "EventName": "Livestock Premium Auction",
+            "EventDescription": "",
+            "EventLocationName" : "Livestock Show Barn",
+            "EventDay": "Friday",
+            "EventTime": "1PM",
+            "Latitude": 38.09043,
+            "Longitude": -87.559147
+        },
+        {
+            "EventNumber": 78,
+            "EventName": "Mini 4-H Day Camp Clover Group",
+            "EventDescription": "",
+            "EventLocationName" : "Auditorium",
+            "EventDay": "Friday",
+            "EventTime": "1-3PM",
+            "Latitude": 38.092095,
+            "Longitude": -87.561649
+        },
+        {
+            "EventNumber": 79,
+            "EventName": "Quilt Hand Tying Demo",
+            "EventDescription": "",
+            "EventLocationName" : "Auditorium",
+            "EventDay": "Friday",
+            "EventTime": "2-6PM",
+            "Latitude": 38.092095,
+            "Longitude": -87.561649
+        },
+        {
+            "EventNumber": 80,
+            "EventName": "All Rides Open",
+            "EventDescription": "",
+            "EventLocationName" : "",
+            "EventDay": "Friday",
+            "EventTime": "4-11PM",
+            "Latitude": 0.0,
+            "Longitude": 0.0
+        },
+        {
+            "EventNumber": 81,
+            "EventName": "Antique Machinery Parade",
+            "EventDescription": "",
+            "EventLocationName" : "Grandstand",
+            "EventDay": "Friday",
+            "EventTime": "5PM",
+            "Latitude": 38.089623,
+            "Longitude": -87.55941
+        },
+        {
+            "EventNumber": 82,
+            "EventName": "Frog jumping Contest",
+            "EventDescription": "",
+            "EventLocationName" : "Livestock Show Barn",
+            "EventDay": "Friday",
+            "EventTime": "6PM",
+            "Latitude": 38.09043,
+            "Longitude": -87.559147
+        },
+        {
+            "EventNumber": 83,
+            "EventName": "Comedy Illusionist",
+            "EventDescription": "",
+            "EventLocationName" : "Kids Corner",
+            "EventDay": "Friday",
+            "EventTime": "6PM & 8PM",
+            "Latitude": 38.090766,
+            "Longitude": -87.561264
+        },
+        {
+            "EventNumber": 84,
+            "EventName": "Vocal & Instrumental Talent Contest",
+            "EventDescription": "",
+            "EventLocationName" : "Auditorium",
+            "EventDay": "Friday",
+            "EventTime": "7PM",
+            "Latitude": 38.092095,
+            "Longitude": -87.561649
+        },
+        {
+            "EventNumber": 85,
+            "EventName": "Professional Tractor Pull",
+            "EventDescription": "",
+            "EventLocationName" : "",
+            "EventDay": "Friday",
+            "EventTime": "7PM",
+            "Latitude": 0.0,
+            "Longitude": 0.0
+        },
+        {
+            "EventNumber": 86,
+            "EventName": "Little Farmers Pet Parade",
+            "EventDescription": "",
+            "EventLocationName" : "Livestock Show Barn",
+            "EventDay": "Friday",
+            "EventTime": "7:30PM",
+            "Latitude": 38.09043,
+            "Longitude": -87.559147
+        },
+        {
+            "EventNumber": 87,
+            "EventName": "Car Show Registration",
+            "EventDescription": "",
+            "EventLocationName" : "Auditorium Parking Lot",
+            "EventDay": "Saturday",
+            "EventTime": "8-10AM",
+            "Latitude": 38.089714,
+            "Longitude": -87.561302
+        },
+        {
+            "EventNumber": 88,
+            "EventName": "Open Sheep Show",
+            "EventDescription": "",
+            "EventLocationName" : "Livestock Show Barn",
+            "EventDay": "Saturday",
+            "EventTime": "8AM",
+            "Latitude": 38.09043,
+            "Longitude": -87.559147
+        },
+        {
+            "EventNumber": 89,
+            "EventName": "Cat Show",
+            "EventDescription": "",
+            "EventLocationName" : "Auditorium",
+            "EventDay": "Saturday",
+            "EventTime": "8:30AM",
+            "Latitude": 38.092095,
+            "Longitude": -87.561649
+        },
+        {
+            "EventNumber": 90,
+            "EventName": "Dairy Goat Show Check-In",
+            "EventDescription": "",
+            "EventLocationName" : "",
+            "EventDay": "Saturday",
+            "EventTime": "9AM-1PM",
+            "Latitude": 0.0,
+            "Longitude": 0.0
+        },
+        {
+            "EventNumber": 91,
+            "EventName": "All Exhibit Buildings Open",
+            "EventDescription": "",
+            "EventLocationName" : "",
+            "EventDay": "Saturday",
+            "EventTime": "9AM-9PM",
+            "Latitude": 0.0,
+            "Longitude": 0.0
+        },
+        {
+            "EventNumber": 92,
+            "EventName": "Horse & Pony Club Costume Class",
+            "EventDescription": "",
+            "EventLocationName" : "Indoor Horse Arena",
+            "EventDay": "Saturday",
+            "EventTime": "10AM",
+            "Latitude": 0.0,
+            "Longitude": 0.0
+        },
+        {
+            "EventNumber": 93,
+            "EventName": "Car Show",
+            "EventDescription": "",
+            "EventLocationName" : "Auditorium Parking Lot",
+            "EventDay": "Saturday",
+            "EventTime": "10AM-2PM",
+            "Latitude": 38.089714,
+            "Longitude": -87.561302
+        },
+        {
+            "EventNumber": 94,
+            "EventName": "Kids Corner Open",
+            "EventDescription": "",
+            "EventLocationName" : "Kids Corner",
+            "EventDay": "Saturday",
+            "EventTime": "10AM-9PM",
+            "Latitude": 38.090766,
+            "Longitude": -87.561264
+        },
+        {
+            "EventNumber": 95,
+            "EventName": "Open Beef Show",
+            "EventDescription": "",
+            "EventLocationName" : "Livestock Show Barn",
+            "EventDay": "Saturday",
+            "EventTime": "11AM",
+            "Latitude": 38.09043,
+            "Longitude": -87.559147
+        },
+        {
+            "EventNumber": 96,
+            "EventName": "Talent Contest",
+            "EventDescription": "",
+            "EventLocationName" : "Auditorium",
+            "EventDay": "Saturday",
+            "EventTime": "12PM",
+            "Latitude": 38.092095,
+            "Longitude": -87.561649
+        },
+        {
+            "EventNumber": 97,
+            "EventName": "Wood Carving Expo",
+            "EventDescription": "",
+            "EventLocationName" : "Grandstand South",
+            "EventDay": "Saturday",
+            "EventTime": "12-9PM",
+            "Latitude": 38.089186,
+            "Longitude": -87.559954
+        },
+        {
+            "EventNumber": 98,
+            "EventName": "Car Show Award Ceremony",
+            "EventDescription": "",
+            "EventLocationName" : "Auditorium Parking Lot",
+            "EventDay": "Saturday",
+            "EventTime": "1PM",
+            "Latitude": 38.089714,
+            "Longitude": -87.561302
+        },
+        {
+            "EventNumber": 99,
+            "EventName": "Quilt Hand Tying Demo",
+            "EventDescription": "",
+            "EventLocationName" : "Auditorium",
+            "EventDay": "Saturday",
+            "EventTime": "2-6PM",
+            "Latitude": 38.092095,
+            "Longitude": -87.561649
+        },
+        {
+            "EventNumber": 100,
+            "EventName": "All Rides Open",
+            "EventDescription": "",
+            "EventLocationName" : "",
+            "EventDay": "Saturday",
+            "EventTime": "2-11PM",
+            "Latitude": 0.0,
+            "Longitude": 0.0
+        },
+        {
+            "EventNumber": 101,
+            "EventName": "Open Glass Dairy Goat Show",
+            "EventDescription": "",
+            "EventLocationName" : "Livestock Show Barn",
+            "EventDay": "Saturday",
+            "EventTime": "3PM",
+            "Latitude": 38.09043,
+            "Longitude": -87.559147
+        },
+        {
+            "EventNumber": 102,
+            "EventName": "Talent Contest",
+            "EventDescription": "",
+            "EventLocationName" : "Auditorium ",
+            "EventDay": "Saturday",
+            "EventTime": "3PM",
+            "Latitude": 38.092095,
+            "Longitude": -87.561649
+        },
+        {
+            "EventNumber": 103,
+            "EventName": "4-H Club Cook Out",
+            "EventDescription": "",
+            "EventLocationName" : "Center Creek Playground",
+            "EventDay": "Saturday",
+            "EventTime": "4PM",
+            "Latitude": 38.093162,
+            "Longitude": -87.560399
+        },
+        {
+            "EventNumber": 104,
+            "EventName": "Parade of Champions",
+            "EventDescription": "",
+            "EventLocationName" : "Grandstand",
+            "EventDay": "Saturday",
+            "EventTime": "6PM",
+            "Latitude": 38.089623,
+            "Longitude": -87.55941
+        },
+        {
+            "EventNumber": 105,
+            "EventName": "Miss Golden Pageant",
+            "EventDescription": "",
+            "EventLocationName" : "Auditorium",
+            "EventDay": "Saturday",
+            "EventTime": "6PM",
+            "Latitude": 38.092095,
+            "Longitude": -87.561649
+        },
+        {
+            "EventNumber": 106,
+            "EventName": "Comedy Illusionist",
+            "EventDescription": "",
+            "EventLocationName" : "Kids Corner",
+            "EventDay": "Saturday",
+            "EventTime": "6PM & 8PM",
+            "Latitude": 38.090766,
+            "Longitude": -87.561264
+        },
+        {
+            "EventNumber": 107,
+            "EventName": "Demolition Derby",
+            "EventDescription": "",
+            "EventLocationName" : "Grandstand",
+            "EventDay": "Saturday",
+            "EventTime": "7:30PM",
+            "Latitude": 38.089623,
+            "Longitude": -87.55941
+        }
+
+]
