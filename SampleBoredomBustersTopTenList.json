@@ -11,9 +11,9 @@
         "image" : "https://via.placeholder.com/150"
       },
       {  
-        "le":"The Ice Rink",  
+        "title":"The Ice Rink",  
         "description": "Come skate with us! Try not to fall",
         "image" : "https://via.placeholder.com/150"
-      },
+      }
     ]
 }
