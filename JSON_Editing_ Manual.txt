@@ -1,0 +1,109 @@
+JSON Editing Manual
+
+JSON EDITING
+Inside the "fields" array is a repeating template for the cells.
+The template is:
+
+    "title":"...words...",  
+    "description": "...words...",
+    "image" : "...url..."
+
+
+To change the title of a cell in the top 10 find the "title" for that cell and edit the words inside the quotation marks 
+
+Example:
+
+        "title":"The Big Golf Outing", 
+    Could be edited to show:
+        "title":"Yearly Fish Fry",
+
+
+
+CELL ORDER
+It is important to note that the order the event is in the fields array will also be the order it appears on the app.
+For example in the example below Walther's Golf & Fun is the cell shown at the top of the app.
+Pete's Circus is the second, The Big Ice Rink is the third etc.
+
+
+
+ADDING IMAGES
+Before adding an image make a note of its name.
+To add an image drag and drop it on the GitHub web page and click the "Commit changes" button on the bottom left.
+After adding the image it should appear in the list of files on the GitHub repository.
+Click on the image file's name, this will take you to a page showing the image.
+Go to the top of the webpage and copy the ULR.
+It should look something like "https://github.com/BoredomBusters/BoredomBustersPublicAppFiles/blob/main/YourImageName.png"
+Paste the URL into the image url section of the JSON for the cell you want to edit
+
+**Note** when the --> is used the old text is on the left hand side and the New/Edited text is on the right
+
+Example of changing the image for the "Pete's Circus" cell
+    "title":"Pete's Circus",  
+    "description": "Come see the show!",
+    "image" : "https://via.placeholder.com/150" --> "image" : "https://github.com/BoredomBusters/BoredomBustersPublicAppFiles/blob/main/YourImageName.png"
+
+After exchanging the old image URL with the new add this text to the end of the image URL
+
+    "?raw=true"
+
+Here is an example of what that would look like
+    "image" : "https://github.com/BoredomBusters/BoredomBustersPublicAppFiles/blob/main/YourImageName.png" --> "image" : "https://github.com/BoredomBusters/BoredomBustersPublicAppFiles/blob/main/YourImageName.png?raw=true"
+
+
+
+Example JSON:
+
+{  
+    "fields": [ 
+      {  
+        "title":"Walther's Golf & Fun",  
+        "description": "Free admission with a report card (any grades accepted)! Both indoor and outdoor miniature golf!",
+        "image" : "https://via.placeholder.com/150"
+      },
+      {  
+        "title":"Pete's Circus",  
+        "description": "Come see the show!",
+        "image" : "https://via.placeholder.com/150"
+      },
+      {  
+        "title":"The Big Ice Rink",  
+        "description": "Come skate with us! Try not to fall",
+        "image" : "https://via.placeholder.com/150"
+      },
+      {  
+        "title":"Fourth Event",  
+        "description": "Its always a blast!",
+        "image" : "https://via.placeholder.com/150"
+      },
+      {  
+        "title":"Event Title Goes here",  
+        "description": "Event description goes here",
+        "image" : "image url goes here"
+      },
+      {  
+        "title":"Event Title Goes here",  
+        "description": "Event description goes here",
+        "image" : "image url goes here"
+      },
+      {  
+        "title":"Event Title Goes here",  
+        "description": "Event description goes here",
+        "image" : "image url goes here"
+      },
+      {  
+        "title":"Event Title Goes here",  
+        "description": "Event description goes here",
+        "image" : "image url goes here"
+      },
+      {  
+        "title":"Event Title Goes here",  
+        "description": "Event description goes here",
+        "image" : "image url goes here"
+      },
+      {  
+        "title":"Event Title Goes here",  
+        "description": "Event description goes here",
+        "image" : "image url goes here"
+      },
+    ]
+}
